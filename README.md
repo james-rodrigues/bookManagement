@@ -10,11 +10,11 @@ Steps to run
  To view H2 console
  `http://localhost:8080/h2
  
- APIs exposed :
-GET /books : Find All Present in DB
-GET /book/{id} : Find Book by Book Id
-POST /book : Create a new book entry
-PUT /book/{id} : Update a Book by passing id in Path and Payload in Request Body
-PUT /book : Update a Book by passing entire payload in Request Body
-DELETE /book/{id} : Delete a Book by Id
-DELETE /book : Delete a Book by passing payload in Request Body
+APIs exposed :
+1) GET `/books` : Find All Present in DB
+2) GET `/book/{id}` : Find Book by Book Id
+3) POST `/book` : Create a new book entry
+4) PUT `/book/{id}` : Update a Book by passing id in Path and Payload in Request Body
+5) PUT `/book` : Update a Book by passing entire payload in Request Body
+6) DELETE `/book/{id}` : Delete a Book by Id
+7) DELETE `/book` : Delete a Book by passing payload in Request Body
