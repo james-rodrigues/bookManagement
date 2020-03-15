@@ -1,0 +1,11 @@
+INSERT INTO TBL_BOOKS (BOOK_NAME,BOOK_TAGS,BOOK_DESCRIPTION,BOOK_RELEASE_DATE,BOOK_IMAGE,BOOK_PRICE,BOOK_RATING) VALUES ('Why We Sleep','Self-Help', 'Profound Knowledge on Sleep','26-10-20','www.whywesleep.com',400.5,4);
+INSERT INTO TBL_BOOKS (BOOK_NAME,BOOK_TAGS,BOOK_DESCRIPTION,BOOK_RELEASE_DATE,BOOK_IMAGE,BOOK_PRICE,BOOK_RATING) VALUES ('Men are from Mars, Women are from Venus','Relationships', 'Profound Knowledge on relationship','27-10-99','www.menmarswomenvenus.com',195.5,3);
+INSERT INTO TBL_BOOKS (BOOK_NAME,BOOK_TAGS,BOOK_DESCRIPTION,BOOK_RELEASE_DATE,BOOK_IMAGE,BOOK_PRICE,BOOK_RATING) VALUES ('Power of Subconscious Mind','Self-Help', 'Profound Knowledge on Subconscious Mind','19-03-85','www.subconsciousmind.com',200,2);
+INSERT INTO TBL_BOOKS (BOOK_NAME,BOOK_TAGS,BOOK_DESCRIPTION,BOOK_RELEASE_DATE,BOOK_IMAGE,BOOK_PRICE,BOOK_RATING) VALUES ('Rich Dad Poor Dad','Self-Help', 'Profound Knowledge on Money','11-09-89','www.richdadpoordad.com',400.5,3);
+INSERT INTO TBL_BOOKS (BOOK_NAME,BOOK_TAGS,BOOK_DESCRIPTION,BOOK_RELEASE_DATE,BOOK_IMAGE,BOOK_PRICE,BOOK_RATING) VALUES ('7 Habits of Highly Effective People','Self-Help', 'Profound Knowledge on Effectiveness','07-05-81','www.7Habits.com',250.5,4);
+INSERT INTO TBL_BOOKS (BOOK_NAME,BOOK_TAGS,BOOK_DESCRIPTION,BOOK_RELEASE_DATE,BOOK_IMAGE,BOOK_PRICE,BOOK_RATING) VALUES ('Sita','Literature', 'Profound Knowledge on Sita','21-08-75','www.sita.com',300.5,3);
+INSERT INTO TBL_BOOKS (BOOK_NAME,BOOK_TAGS,BOOK_DESCRIPTION,BOOK_RELEASE_DATE,BOOK_IMAGE,BOOK_PRICE,BOOK_RATING) VALUES ('Let us C','Knowledge', 'Profound Knowledge on C','13-10-89','www.letusc.com',500.5,4);
+INSERT INTO TBL_BOOKS (BOOK_NAME,BOOK_TAGS,BOOK_DESCRIPTION,BOOK_RELEASE_DATE,BOOK_IMAGE,BOOK_PRICE,BOOK_RATING) VALUES ('Alvin and the Chipmunks','Fiction', 'Profound Knowledge on Cartoons','26-10-19','www.alvinchipmunks.com',100.5,2);
+INSERT INTO TBL_BOOKS (BOOK_NAME,BOOK_TAGS,BOOK_DESCRIPTION,BOOK_RELEASE_DATE,BOOK_IMAGE,BOOK_PRICE,BOOK_RATING) VALUES ('Alibaba and 40 Theifs','Fiction', 'Profound Knowledge on Stories','26-10-92','www.alibaba.com',275.5,4);
+INSERT INTO TBL_BOOKS (BOOK_NAME,BOOK_TAGS,BOOK_DESCRIPTION,BOOK_RELEASE_DATE,BOOK_IMAGE,BOOK_PRICE,BOOK_RATING) VALUES ('Why Do We Love the Way We Do','Romance', 'Profound Knowledge on Romance','15-04-18','www.preetishenoy.com',193.5,3);
+COMMIT;
